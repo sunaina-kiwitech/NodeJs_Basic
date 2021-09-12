@@ -1,5 +1,5 @@
 # Pre-reqs
-To build and run this kit you need to have a few things installed locally
+To build and run this project you need to have a few things installed locally
 - Install Node.js
 - Install VS Code
 
